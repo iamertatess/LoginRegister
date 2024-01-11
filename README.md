@@ -1,5 +1,5 @@
-# Login-Register
+# LoginRegister
+  
+  - HTML,CSS  kullanılarak yapıldı.
 
-- HTML,CSS kullanarak yapıldı .
-
- <img src="LoginRegister.gif">
+  <img src="LoginRegister.gif">
